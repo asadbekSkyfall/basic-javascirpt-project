@@ -1,2 +1,2 @@
 # basic-javascirpt-project
-With freeCodeCamp tutorial
+With freeCodeCamp tutorial course
